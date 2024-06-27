@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>this is a main branch</h1>
+        <h2>this is dev branch to check  conflicts</h2>
         <h2>this is also a main branch to check conflicts</h2>
         <h3>checking both</h3>
        <h2>this is also a main branch to check conflicts second time</h2>
