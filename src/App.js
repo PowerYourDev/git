@@ -22,6 +22,8 @@ function App() {
         <h2>this is also a main branch to check conflicts</h2>
         <h2>this is also a main branch to check conflicts second time</h2>
         <p>this is saiteja</p>
+       <h2>this is also a main branch to check conflicts second time</h2>
+          <h2>this is chicky</h2>
       </header>
     
     </div>
